@@ -4,7 +4,7 @@
 # 将颜色应用于 UI
 
 [en]: <> (Color is applied to UI elements and components in consistent and meaningful ways.)
-译文 颜色以一致和有意义的方式应用于UI元素和组件。
+译文 颜色以一致和有意义的方式应用于UI的元素和组件。
 
 <nav>
 
@@ -27,7 +27,7 @@
 <h2 id="usage">译文  用法</h2>
 
 [en]: <> (These guidelines describe a variety of UI components and elements where color application is important.)
-译文  这些指南描述了颜色应用非常重要的各种UI组件和元素。
+译文  这些指南描述了如果讲颜色应用于重要的各种UI组件以及元素。
 
 [en]: <> (Principles)
 ### 原则
@@ -40,41 +40,41 @@
 #### 一致性
 
 [en]: <> (Color should be applied throughout a UI consistently and be compatible with the brand it represents.)
-译文      颜色应该贯穿整个UI，并与它所代表的品牌兼容。
+译文      颜色应该贯穿整个UI，并与它所代表的内容兼容。
 
 </div><div class="mdui-col">
 
 ![]({assets_path}/color/applying-color-to-ui/color-illos-09.png)
 
 [en]: <> (Distinct)
-#### 特色/明显/清楚
+#### 区别性
 
 [en]: <> (Color should create distinction between elements, with sufficient contrast between them.)
-译文      颜色应该创造元素之间的区别，它们之间有足够的对比。
+译文      颜色应该创造元素之间的区别，使得元素之间有足够的对比度。
 
 </div><div class="mdui-col">
     
 ![]({assets_path}/color/applying-color-to-ui/color-illos-10.png)
 
 [en]: <> (Intentional)
-#### 译文 有意的
+#### 目的性
 
 [en]: <> (Color should be applied purposefully as it can convey meaning in multiple ways, such as relationships between elements and degrees of hierarchy.)
-译文  颜色应该有目的地应用，因为它可以以多种方式传达意义，如元素之间的关系和等级的等级。
+译文  颜色应该有目的地应用，因为它可以以多种方式传达意义，如元素之间的关系和等级。
 
 </div></div>
 
 [en]: <> (Top and bottom app bars)
-<h2 id="top-bottom-app-bars">译文</h2>
+<h2 id="top-bottom-app-bars">译文  顶部和底部应用程序条</h2>
 
 [en]: <> (The way color is applied to top and bottom app bars helps users identify them and understand their relationship to surrounding UI elements.)
-译文    颜色应用于顶部和底部应用程序条帮助用户识别它们并理解它们与周围UI元素之间的关系。
+译文    颜色应用于顶部和底部应用程序条以帮助用户识别它们并理解它们与周围UI元素之间的关系。
 
 [en]: <> (Identifying app bars)
 ### 译文  识别程序程序条
 
 [en]: <> (Top and bottom app bars use an app’s primary color. System bars can use a dark or light variant of the primary color to separate system content from top app bar content.)
-译文 颜色应用于顶部和底部应用程序条帮助用户识别它们并理解它们与周围UI元素之间的关系。
+译文 顶部和底部应用程序条使用一个应用程序的原色。系统条可以使用主色调的深色或浅变，将系统内容与顶部应用程序栏内容区别开来。
 
 <figure>
 
@@ -90,7 +90,7 @@
 </figcaption></figure>
 
 [en]: <> (To emphasize the difference between app bars and other surfaces, use a secondary color on nearby components such as the FAB.)
-译文  为了强调App Bar和其他表面之间的差异，在Fab附近的组件上使用二次色。
+译文  为了强调应用程序栏和其他内容之间的差异，应该在附近的组件（比如浮动动作按钮）上应用不一样的颜色。
 
 <figure>
 
@@ -101,7 +101,7 @@
 {do}
 
 [en]: <> (The primary color \(blue 700\) is used on this bottom app bar, and the secondary color \(orange 500\) is used on the floating action button.)
-译文  主色（蓝色700）在这个底部应用程序条上，第二个颜色（橙色500）用于浮动动作按钮。
+译文  底部应用程序条使用了主色（蓝色700），则浮动动作按钮应该使用不同的颜色（橙色500）。
 
 </figcaption></figure><figure>
 
@@ -112,22 +112,22 @@
 {caution}
 
 [en]: <> (If the bottom app bar and floating action button are the same color, use shadow or alternate means to create enough distinction between them.)
-译文  如果底部应用程序条和浮动动作按钮是相同的颜色，则使用阴影或替换的方法来创建它们之间的足够区分。
+译文  如果底部应用程序条和浮动动作按钮的颜色是相同的，则使用阴影或替换来使他们更好区分。
 
 </figcaption></figure>
-
+on scroll the 
 [en]: <> (Blending an app bar with the background)
 ### 译文  将应用程序条与背景混合
 
 [en]: <> (When an app’s top or bottom app bar color is the same color as the background color, they blend together, placing emphasis on an app’s content instead of its structure.)
-译文  当应用程序的顶部或底部应用程序条颜色与背景颜色相同时，它们混合在一起，将重点放在应用程序的内容而不是其结构上。
+译文  当应用程序的顶部或底部应用程序条颜色与背景颜色相同时，它们将混合在一起，就可以使应用程序的内容更加明显而不是其结构。
 
 <figure><video controls loop muted preload="metadata" class="mdui-video-fluid">
 <source data-src="{assets_path}/color/applying-color-to-ui/color-applyingcolorui-blendedbars-fortnightly-1a-v1.mp4" src="{assets_path}/color/applying-color-to-ui/color-applyingcolorui-blendedbars-fortnightly-1a-v1.mp4" type="video/mp4">
 </video><figcaption>
 
 [en]: <> (Both this app’s top app bar color and background color is the primary color: white. However, on scroll the top app bar gains a shadow, showing it has an elevation higher than the content that scrolls behind it.)
-译文  这个应用程序的顶部应用程序条颜色和背景颜色是主要颜色：白色。然而，在滚动顶部应用程序栏获得阴影，显示它的高度高于滚动背后的内容。
+译文  这个应用程序的顶部应用程序条颜色和背景颜色都使用了主色（白色）。然而，在滚动顶部应用程序栏获得阴影，显示它的高度高于滚动背后的内容。
 
 </figcaption></figure><figure>
 
