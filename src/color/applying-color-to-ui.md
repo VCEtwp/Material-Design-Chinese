@@ -127,7 +127,7 @@ on scroll the
 </video><figcaption>
 
 [en]: <> (Both this app’s top app bar color and background color is the primary color: white. However, on scroll the top app bar gains a shadow, showing it has an elevation higher than the content that scrolls behind it.)
-译文  这个应用程序的顶部应用程序条颜色和背景颜色都使用了主色（白色）。然而，在滚动顶部应用程序栏获得阴影，显示它的高度高于滚动背后的内容。
+译文  这个应用程序的顶部应用程序条颜色和背景颜色都使用了主色（白色）。但是顶部应用程序栏有一个阴影，使得看起来它的高度要高于其背后的内容。
 
 </figcaption></figure><figure>
 
